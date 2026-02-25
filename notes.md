@@ -20,3 +20,22 @@
 - the script tag is used to enbed or reference js code in your webpage.
 - in simpler words it tells the browser that here some js code to execute.
 - tow ways to use script tag 1. inline and extrernal js
+
+# What are semantic elements ?
+
+- semantic elements are the html tags that clearly describes the the purpose of the content that thay contian to both developers and browsers.
+- simple definition : a semantic element =  meaningful html tag.
+- Ex: <p> , <header> , <section> , <article> , <aside> , <footer>.
+- by using semantic elements code readabilioty will improve , search engines understands your page better . very important for SEO 
+- screen readers can interpret content correctly for visually impared people .
+
+# What is the difference between id , class and data-* ?
+
+- id is an attribute , it is an unique indentifier which we can use with html tags , id must me uniqiue.
+- class is an attribute , it is used to group elements so they can share the same style or behaviour.
+- data-* is an custom attribute which is used to store custom data directly inside the html elements. `<button data-user-id="123" data-role="admin">Click</button>`
+
+
+# A page layout is breaking in Safari but working in Chrome How will you debug it.
+
+- 
