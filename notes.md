@@ -39,3 +39,8 @@
 # A page layout is breaking in Safari but working in Chrome How will you debug it.
 
 - 
+
+
+# What is the use of <DOCTYPE> ?
+
+- <!DOCTYPE html> is a declaration that tells the browser which version of HTML page is using so it can render that page accordingly
